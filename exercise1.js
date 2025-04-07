@@ -1,6 +1,6 @@
 "use strict"
 
-let add = (a, b) => a + b;
+let add = (a, b) => a + b
 
 let random = () => Math.random * 100
 
