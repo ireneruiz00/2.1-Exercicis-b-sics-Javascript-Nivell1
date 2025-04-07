@@ -1,4 +1,5 @@
 "use strict"
+
 function process (number, myCallback) {
     return myCallback(number)
 }
