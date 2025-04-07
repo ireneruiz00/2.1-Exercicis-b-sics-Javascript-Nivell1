@@ -14,3 +14,5 @@ function suma (...numbers){
     }
     return total;
 }
+
+console.log(suma(1,2,3))
