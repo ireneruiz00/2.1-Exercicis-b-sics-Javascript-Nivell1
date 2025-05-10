@@ -1,3 +1,4 @@
+"use strict"
 const resultDiv = document.getElementById('result')
 
 function canDrive (age) {
